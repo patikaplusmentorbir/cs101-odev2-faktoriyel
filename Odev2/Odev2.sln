@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev2", "Odev2\Odev2.csproj", "{D7FA44AD-ABC8-4C79-96E9-3039CEEE3590}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev2.Tests", "Odev2.Tests\Odev2.Tests.csproj", "{D52B848B-0C54-4F48-8AFC-9786B6E7078C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7FA44AD-ABC8-4C79-96E9-3039CEEE3590}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7FA44AD-ABC8-4C79-96E9-3039CEEE3590}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7FA44AD-ABC8-4C79-96E9-3039CEEE3590}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7FA44AD-ABC8-4C79-96E9-3039CEEE3590}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D52B848B-0C54-4F48-8AFC-9786B6E7078C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D52B848B-0C54-4F48-8AFC-9786B6E7078C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D52B848B-0C54-4F48-8AFC-9786B6E7078C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D52B848B-0C54-4F48-8AFC-9786B6E7078C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0CB4E85-B62A-49AF-ADA3-D542D1E5A26F}
+	EndGlobalSection
+EndGlobal
